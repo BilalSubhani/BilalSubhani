@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BilalSubhani
+- 👀 I’m interested in programming, mostly in web developement
+- 🌱 I’m currently completing my bachelors in electrical engineering, specializing in computer engineering
+- 💞️ I’m looking to collaborate on learning skills related to web developement
+- 📫 You can reach me using my mail: mailatbilalsubhani@gmail.com
