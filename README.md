@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on creating my portfolio website<br>
+🔭 I'm currently working on creating my portfolio<br>
 🤝 I'm looking for help with advance concepts of MERN Stack<br>
 🌱 I'm currently learning advance topics of MERN Stack<br>
 💭 Ask me about OOP, DSA, and SQL<br>
