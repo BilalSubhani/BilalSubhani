@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently working on creating my portfolio website<br>
 🤝 I'm looking for help with advance concepts of MERN Stack<br>
-🌱 I'm currently learning PostgreSQL and advance topics of MERN Stack<br>
-💭 Ask me about C++, Python, and MERN<br>
+🌱 I'm currently learning advance topics of MERN Stack<br>
+💭 Ask me about OOP, DSA, and SQL<br>
 ⚡How to reach me bilalsubhani.025@gmail.com
 
 ## 🌐 Socials:
