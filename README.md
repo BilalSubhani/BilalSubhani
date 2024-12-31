@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on creating my portfolio<br>
-🤝 I'm looking for help with advance concepts of MERN Stack<br>
-🌱 I'm currently learning advance topics of MERN Stack<br>
+🤝 I'm looking for help with advance concepts of MERN and MEAN Stack<br>
+🌱 I'm currently learning Angular & NestJS<br>
 💭 Ask me about OOP, DSA, and SQL<br>
 ⚡How to reach me bilalsubhani.025@gmail.com
 
