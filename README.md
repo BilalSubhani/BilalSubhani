@@ -5,6 +5,8 @@
 💭 Ask me about OOP, DSA, and SQL<br>
 ⚡How to reach me bilalsubhani.025@gmail.com
 
+<div align="center">
+
 ## 🌐 Socials:
 &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal-subhani)  &nbsp; &nbsp; &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/BilalSubhani/) <br> 
@@ -48,7 +50,6 @@
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  <br>
 
-<div align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BilalSubhani&theme=shadow_blue&hide_border=false)<br/>
@@ -57,9 +58,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BilalSubhani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BilalSubhani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
