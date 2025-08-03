@@ -75,8 +75,7 @@
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-```text
+```
  TypeScript   42 hrs 38 mins  ██████████████████████░░   85.3%
 MySQL         3 hrs 25 mins  ███░░░░░░░░░░░░░░░░░░░░░   6.8%
 Docker        1 hr 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░   3.2%
@@ -84,7 +83,6 @@ Go Lang       1 hr 35 mins   █░░░░░░░░░░░░░░░░
 Python          47 mins      ░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 
 ```
-<!--END_SECTION:waka-->
 
 </div>
 
@@ -117,7 +115,7 @@ Python          47 mins      ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-```javascript
+```
 const bilalSubhani = {
     role: "Full-Stack Developer",
     experience: "Enterprise Solutions",
@@ -144,9 +142,9 @@ const bilalSubhani = {
 
 ---
 
-<div align="center">
-
 ## 💻 Tech Stack
+
+<div align="center">
 
 ### 🔤 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -159,6 +157,7 @@ const bilalSubhani = {
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+
 ### ⚛️ Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -168,6 +167,7 @@ const bilalSubhani = {
 
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
 
 ### 🔙 Backend Development
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -179,11 +179,13 @@ const bilalSubhani = {
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
+
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
 
 ### 🎨 Design & Styling
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -191,11 +193,13 @@ const bilalSubhani = {
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Less](https://img.shields.io/badge/Less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 
+
 ### ☁️ Cloud & Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+
 
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -208,11 +212,13 @@ const bilalSubhani = {
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 
+
 ### 📊 Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
 
 ### 🛍️ E-commerce
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
@@ -224,9 +230,10 @@ const bilalSubhani = {
 
 ---
 
-<div align="center">
 
 ## 📊 GitHub Analytics
+
+<div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BilalSubhani&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=BilalSubhani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
